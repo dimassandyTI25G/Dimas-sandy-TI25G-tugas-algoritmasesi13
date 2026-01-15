@@ -1,2 +1,2 @@
-# Dimas-sandy-TI25G-tugas-algoritmasesi13
-tugas algoritma sesi 13
+# Dimas-sandy-TI25G-tugas-algoritmasesi14
+tugas algoritma sesi 14
